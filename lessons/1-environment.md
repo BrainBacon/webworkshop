@@ -1,8 +1,8 @@
 #Introduction - Setup
-### Follow along on Github: https://github.com/BrainBacon
+### Follow along on Github: https://github.com/BrainBacon/webworkshop
 
 ##Environment:
- - CLI ([iterm](https://www.iterm2.com/), cygwin?, zsh, powershell)
+ - CLI ([iterm](https://www.iterm2.com/), cygwin, zsh, powershell)
  - [Brew](http://brew.sh/) - OSx
  - [Git](https://git-scm.com/) `brew install git`
  - [Node.js](https://nodejs.org/en/) `brew install node`
