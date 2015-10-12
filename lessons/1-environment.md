@@ -1,5 +1,6 @@
 #Introduction - Setup
-### Follow along on Github: https://github.com/BrainBacon/webworkshop
+###Follow along on Github:
+###https://github.com/BrainBacon/webworkshop
 
 ##Environment:
  - CLI ([iterm](https://www.iterm2.com/), cygwin, zsh, powershell)
