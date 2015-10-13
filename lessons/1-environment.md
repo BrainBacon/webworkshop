@@ -15,3 +15,4 @@
  - sign up for [github](https://github.com)
  - sign up for [plnkr](http://plnkr.co/)
  - [set up ssh key (optional)](https://help.github.com/articles/generating-ssh-keys/)
+   - [explanation](https://youtu.be/U62S8SchxX4)
