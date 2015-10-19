@@ -54,9 +54,7 @@
   - Arguments
     - no type declaration needed
     - can take any number of arguments
-    - 
-        ```js
-        var myFn = function(arg1, arg2) {
+    -   var myFn = function(arg1, arg2) {
              console.log(arg1);
              console.log(arg2);
         };
@@ -66,7 +64,6 @@
         myFn(‘one’);
         => ‘one’
         => undefined
-        ```
     - “arguments” keyword to access arguments object
     - parens operator to run functions “( )”
 - loops
