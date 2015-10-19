@@ -55,16 +55,17 @@
     - no type declaration needed
     - can take any number of arguments
 
-        var myFn = function(arg1, arg2) {
-             console.log(arg1);
-             console.log(arg2);
-        };
-        myFn(‘one’, ‘two’);
-        => ‘one’
-        => ‘two’
-        myFn(‘one’);
-        => ‘one’
-        => undefined
+    var myFn = function(arg1, arg2) {
+         console.log(arg1);
+         console.log(arg2);
+    };
+    myFn(‘one’, ‘two’);
+    => ‘one’
+    => ‘two’
+    myFn(‘one’);
+    => ‘one’
+    => undefined
+
     - “arguments” keyword to access arguments object
     - parens operator to run functions “( )”
 - loops
