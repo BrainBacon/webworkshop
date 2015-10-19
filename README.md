@@ -6,3 +6,4 @@ Learn to be a great web developer at this free class! Taught by Brian Jesse, CTO
 
 ##Lessons
  1. [Introduction - Environment](lessons/1-environment.md)
+ 2. [JavaScript Introduction](lessons/2-js-intro.md)
